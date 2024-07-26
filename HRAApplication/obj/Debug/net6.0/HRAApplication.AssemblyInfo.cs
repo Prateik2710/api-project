@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRAApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c7309f93d7c60547dc938fbbe150888b18877d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRAApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRAApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
